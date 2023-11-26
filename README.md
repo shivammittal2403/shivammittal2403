@@ -2063,6 +2063,482 @@ https://github.com/CyberSecurityUP/Offensivesecurity-Checklists/blob/main/Active
 
 
 
+WHOIS Search, Domain Name, Website, and IP Tools - Who.is
+OSINT Framework
+Have I Been Pwned: Check if your email has been compromised in a data breach
+WinRAR archiver, a powerful tool to process RAR and ZIP files
+GitHub: Where the world builds software · GitHub
+Kali Linux Basic Commands - javatpoint
+Choose Hostinger and Host Your Site for Only ₹129.00/mo
+Trusted Connections at the Moments that Matter the Most | Neustar
+IP Address Lookup & Geolocation Tool | Neustar
+Emkei's Fake Mailer
+URL Shortener
+URL Shortener - Short URLs & Custom Free Link Shortener | Bitly
+Cryptus Certified Ethical Hacker Training in Delhi,Noida, India
+Cyber Crime Portal
+Shodan Search Engine
+Netcraft | Cybercrime Disruption, Cybersecurity Solutions & PCI Security Services
+Reverse IP Lookup | Search IP Address Owner | InfoTracer
+What is DNS? | How DNS works | Cloudflare
+DNS Checker - DNS Check Propagation Tool
+Cybersecurity and IT Security Certifications and Training | (ISC)²
+Home | The No More Ransom Project
+Encrypt & Decrypt Text Online - Online Toolz
+Subdomains Lookup | Find all subdomains | WhoisXML API
+Subdomain Finder
+SSL Server Test (Powered by Qualys SSL Labs)
+Network Tools: DNS,IP,Email
+Search - Nmap.org
+Online nslookup — Find DNS records
+Online nslookup — Find DNS records
+hadder.com
+Reverse Phone Lookup | Zabasearch
+What is my IP location? (Geolocation)
+IP Location Finder - Geolocation
+Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6
+DNS A record | Cloudflare
+Welcome to Robtex!
+What are Traceroute, Ping, Telnet and Nslookup commands? - Hosting - Namecheap.com
+Google Maps
+Free and Instant API Penetration Testing | No-Code
+100 Best Ethical Hacking Tools - 2023 (New List)
+Pentesting Cheatsheets - Red Team Notes
+Careers | FreeCyber
+https://auth0.openai.com/u/login/identifier?state=hKFo2SBzTnkwREtaUThPajlIcUFObDAxcHotejVYYTZBdjdIYaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIG5JbTRQMFgwejdMMzVGYzRUVEV5bWlza1hKVWthVUJho2NpZNkgRE1nOTFmNVBDSFF0Yzd1MDE4V0tpTDB6b3BLZGlIbGU
+https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA
+PentesterLab: Learn Web Penetration Testing: The Right Way
+PentesterLab: Learn Web App Pentesting!
+PentesterLab: Our exercises
+AVD Setup - Amateur_2light
+Filesec.io
+MEGA
+Download macOS Ventura ISO for Virtualbox and VMWare: 2 Direct Links - TechRechard
+HGU
+Introduction - Robensive: ANEE
+CVE security vulnerability database. Security vulnerabilities, exploits, references and more
+FIRST - Improving Security Together
+DorkSearch - Speed up your Google Dorking
+Dehash.me - Hash & Dehash
+Phonebook.cz - Intelligence X
+Offensive Hacking Unfolded - The Beginner's Edition
+Security Content Automation Protocol (SCAP) – DoD Cyber Exchange
+Offensive Security Cheatsheet
+Arbiter Network | CDR ANALYSIS Software development In Jaipur
+Exploit Notes
+web application
+url
+URL and website scanner - urlscan.io
+MalwareBazaar | Malware sample exchange
+Feodo Tracker
+SSLBL | Detecting malicious SSL connections
+URLhaus | Malware URL exchange
+ThreatFox | Share Indicators Of Compromise (IOCs)
+PhishTool
+Cisco Talos Intelligence Group - Comprehensive Threat Intelligence
+GitHub - OpenCTI-Platform/opencti: Open Cyber Threat Intelligence Platform
+Installing Wazuh agents on Windows endpoints - Wazuh agent
+What is an Agile Framework? Intro to Agile Methodology
+GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+Jonas Wagner - 29a.ch
+Photo Location & Online EXIF Data Viewer - Pic 2 Map
+53 TinEye search results
+Geotag Photos Online
+Online photo metadata and EXIF data viewer | Jimpl
+Geotagged photos to KMZ - Geoprocessing Online
+EmailAnalyzer at DuckDuckGo
+CyberChef
+Download Helix Visual Client (P4V) | Perforce
+New folder
+Online SMS verification service | Receive SMS online
+Download
+BSides Indore CTF
+GitHub - center-for-threat-informed-defense/adversary_emulation_library: An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs.
+Home - MalwareHunterTeam
+Jotti's malware scan
+MalwareConfig
+Virusade: App Reviews, Features, Pricing & Download | AlternativeTo
+Leader in Cybersecurity Solutions & Critical Infrastructure Protection - OPSWAT
+Windows Sandbox - Windows Security | Microsoft Learn
+The Sandbox Game — User-Generated Crypto & Blockchain Games
+SandBlast Analysis | Check Point ThreatPoint
+MAnalyzer | MeldaProduction
+InQuest Labs - InQuest.net
+Hatching
+Gatewatcher - Specialist in cyber security and cyber risk detection
+IRIS-H Digital Forensics
+Free Automated Malware Analysis Sandboxes and Services
+BitBlaze - Cryptocurrency Exchange
+IObit Cloud
+Amnpardaz Sandbox - file Analyzer
+VMRay - Cyber Security Threat Detection & Analysis Platform
+Intezer Analyze – Security analysts' trusted advisor
+Advanced File Analysis System | Valkyrie
+VirScan - 多引擎文件在线检测平台
+Anlyz - Provides security business in need change to Next Gen SecOps platform
+Crunchbase: Discover innovative companies and the people behind them
+Online Ping, Traceroute, DNS lookup, WHOIS, Port check, Reverse lookup, Proxy checker, Bandwidth meter, Network calculator, Network mask calculator, Country by IP, Unit converter
+Free online XSS scanner
+Bug Bounty Checklist for Web App
+10 Minute Email | Temporary Disposable Gmail
+Receive SMS Online | Temporary Disposable Phone Number
+WiGLE: Wireless Network Mapping
+OSSEC - World's Most Widely Used Host Intrusion Detection System - HIDS
+Security solution unifying SIEM, endpoint & cloud | Elastic
+Welcome :: Velociraptor - Digging deeper!
+What is EDR? Endpoint Detection & Response Explained
+EDR | Endpoint Detection and Response | Endpoint Security
+Endpoint Detection & Response (EDR) for Mac | Kandji
+InsightIDR Feature: Endpoint Detection & Response - Rapid7
+Search Engine for Security Intelligence | Vulners.com
+Exposure Management and Threat Hunting Solutions | Censys
+Find email addresses in seconds • Hunter (Email Hunter)
+FullHunt | Expose Your Attack Surface
+ONYPHE | Attack Surface Management & Cyber Defense Search Engine
+Home - SOCRadar® Extended Threat Intelligence
+BinaryEdge
+Intelligence X
+Home - TheHive Project Documentation
+GitHub - decalage2/oletools: oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
+Cuckoo Sandbox - Automated Malware Analysis
+TheHive Project
+Elasticsearch Platform — Find real-time answers at scale | Elastic
+GitHub - capture0x/SSTI-FINDER: This tool is designed to detect and identify Server-Side Template Injection (SSTI) vulnerabilities in web applications
+searchcode | source code search engine
+Search Engine for Source Code - PublicWWW.com
+grep.app | code search
+AbuseIPDB - IP address abuse reports - Making the Internet safer, one IP at a time
+API - Koodous docs
+Overview - Process Hacker
+Autoruns for Windows - Sysinternals | Microsoft Learn
+Knownsec Seebug Vulnerability Platform - Discovering Vulnerabilities & Providing First Hand Intelligence!
+GreyNoise is the source for understanding internet noise
+CVE - Search CVE List
+Free Email Address Verifier: Verify An Email Address In Real Time | emailhippo.com
+DNSdumpster.com - dns recon and research, find and lookup dns records
+Discover - ZoomEye really mapping,global leader of cyberspace mapping
+National Vulnerability Database (NVD) | NIST
+Website Scanner | Website Security Check for Free | Snyk
+NVD - Home
+CINSscore.com
+AlienVault - Open Threat Exchange
+Proofpoint Emerging Threats Rules
+Maps | OSINT Essentials
+MoHFW | Home
+Beautiful Soup Documentation — Beautiful Soup 4.12.0 documentation
+Yandex Images: search for images online, image search
+smsheader.trai.gov.in
+TAFCOP
+Login
+Domain Search - DomainTools | Start Here. Know Now.
+Parameters for search URL which uses POST
+URL parser online
+URL Parser - Free Online URL Query String Splitter
+URL Fuzzer - online hidden file & directory finder
+Website vulnerability scanner online | Scan web app for free
+XSS Scanner - Online Scan for Cross-site Scripting Vulnerabilities
+URL Parser - Free Online URL Splitter
+Google Advanced Search
+One secure - Tools - Google Hacking
+Temp-Number
+Introduction to Network Security : Beacon
+28 Online Vulnerability Scanners & Network Tools | HackerTarget.com
+DorkGenius | Search Engine Dork Generator | Google, Bing, DuckDuckGo Dorks
+Dashboard | DorkGenius
+Extract IP addresses - CyberChef
+Internasjonalt – Nordic Cyber Security (OSINT)
+OSINT
+New folder
+Meet - czx-jzsa-zez
+Meet - vat-vgsu-owa
+SANS OSINT 2022 - start.me
+Course assessment - Microsoft Azure Administrator - Course Assessment | en - 4814 - 137202
+OSINT - start.me
+AML Toolbox - start.me
+OSINT - start.me
+Dating apps and hook-up sites for investigators - start.me
+Week in OSINT #2020–25. From geolocation to hate symbols, and… | by Sector035 | Week in OSINT | Medium
+Convert URL to HTML Link
+All-Source Analysis | NICCS
+Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more
+OSINT part3
+IntelTechniques OSINT Online Search Tool
+FAROS OSINT Resources - start.me
+CyberSudo's OSINT Toolkit.xlsx - Google Sheets
+OSINT part 2
+Meet - vat-vgsu-owa
+India Reverse Lookup 91-7289 Zhirnia Phone Number
+Namechk - Username and Domain Name Checker - Search All Domain Names and User Names to see if they're available
+Username Checker - Social Media Name & Domain Availability Checker
+EPFO:Establishment Search
+Justdial - Local Search, Social, News, Videos, Shopping
+Creation & Maintenance of National Database and Profiling of Sexual Offenders | National Crime Records Bureau
+Creepy by ilektrojohn
+OWASP Amass | OWASP Foundation
+GreyNoise Visualizer
+OSINT Dojo
+Sanctions List Search
+Instagram search tool - Instagram Investigations - Aware Online Academy
+Reverse Phone Number Lookup: Identify Spam Calls.
+PimEyes: Face Recognition Search Engine and Reverse Image Search
+AirNav RadarBox - Global Flight Tracking Intelligence | Live Flight Tracker and Airport Status
+We will always be OSINTCurio.us – We helped the OSINT community stay curious
+Social Links - OSINT Tools For Investigations
+NexVision Web Threat Intelligence - Open Source Intelligence (OSINT)
+Asset Based Search
+Cylect.io, the Ultimate OSINT Tool.
+Goosint – Goosint focused on the most popular web-based Open Source Intelligence and Cybersecurity Tools. The goal is to help you find free cybersecurity, Threat Intelligence and OSINT resources.
+OSINT.SH - All in one Information Gathering Tools
+osint.link
+Cybersecurity Search Engine | Criminal IP
+DorkGenius | Search Engine Dork Generator | Google, Bing, DuckDuckGo Dorks
+GitHub - jivoi/awesome-osint: :scream: A curated list of amazingly awesome OSINT
+Free AIS Ship Tracker - VesselFinder
+ShipXplorer - Live Vessel Tracker and Port Status
+Vessel LEILA-JO-IMO-0-MMSI-512448000 - ShipXplorer - Live Vessel Tracker and Port Status
+Flight Tracker - Live Flight Tracking - Plane Finder
+Hall of Fame | Face8 Taiwan Face Overlord Face Recognition Engine | R&D Technology PAPAGO!
+.xyz Domain Names | Join Generation XYZ
+WHOIS Service
+Introduction - OWASP Cheat Sheet Series
+Shodan Search Engine
+Wingman | Sign Up
+Meet – cgo-imir-oir
+DNS Lookup - Check All DNS Records for Any Domain
+Getting started — caldera documentation
+Synapsint
+DNS Lookup - Check All DNS Records for Any Domain
+Copyscape Plagiarism Checker - Duplicate Content Detection Software
+W3Schools Tryit Editor
+Mobile-Friendly Test – Google Search Console
+Network Tools by YouGetSignal.com
+Browserling – Online cross-browser testing
+Dashboard – Cloud overview – Google Cloud console
+ATT&CK Extractor | Tools | | MITRE D3FEND™
+Caldera
+Explore Atomic Red Team
+SSL Certificate Checker
+XE Money Transfer | Secure your account
+SPF Query Tool
+malware payloads
+New folder
+Omni Calculator
+GitHub - monnappa22/Limon: Limon is a sandbox developed as a research project written in python, which automatically collects, analyzes, and reports on the run time indicators of Linux malware. It allows one to inspect Linux malware before execution, during execution, and after execution (post-mortem analysis) by performing static, dynamic and memory analysis using open source tools
+FileScan.IO - Next-Gen Malware Analysis Platform
+Binary Guard
+GitHub - quarkslab/irma: IRMA is an asynchronous & customizable analysis system for suspicious files.
+Deep Malware Analysis - Joe Sandbox
+Download Fiddler Web Debugging Tool for Free by Telerik
+Process Monitor - Sysinternals | Microsoft Learn
+ProcDOT's Home
+TCPView for Windows - Sysinternals | Microsoft Learn
+IBM X-Force Exchange
+Eric Zimmerman's tools
+File Signatures
+Index page - KernelMode.info
+contagio
+malware-traffic-analysis.net
+GitHub - ytisf/theZoo: A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+openmalware.org
+MalAPI.io
+CreateFileMappingA function (winbase.h) - Win32 apps | Microsoft Learn
+GitHub - Dump-GUY/Malware-analysis-and-Reverse-engineering: Some of my publicly available Malware analysis and Reverse engineering.
+GitHub - mentebinaria/retoolkit: Reverse Engineer's Toolkit
+Exploit Reversing – A blog about reverse engineering
+VirusBay
+Cheat Sheet for Analyzing Malicious Software
+GitHub - CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering
+GitHub - tylerha97/awesome-reversing: A curated list of awesome reversing resources
+GitHub - wtsxDev/reverse-engineering: List of awesome reverse engineering resources
+GitHub - ReversingID/Awesome-Reversing: A curated list of awesome reverse engineering resources for various topics
+GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+Malware Reverse Engineering
+Manalyzer
+Gatewatcher Intelligence - Welcome
+YOMI
+GoSecure Responder PRO - GoSecure
+Release Downloads | Volatility Foundation
+GitHub - rshipp/awesome-malware-analysis: Defund the Police.
+GitHub - paulveillard/cybersecurity-malware-analysis: A collection of Malware Analysis software, materials, libraries, documents, books, resources about malware analysis in Cybersecurity.
+HackTricks - HackTricks
+HackTricks Values & faq - HackTricks
+Deep Malware Analysis - Joe Sandbox
+CAPE Sandbox
+ANY.RUN - Interactive Online Malware Sandbox
+GitHub - cuckoosandbox/cuckoo: Cuckoo Sandbox is an automated dynamic malware analysis system
+radare
+malwares.com
+MetaDefender Cloud | Advanced threat prevention and detection
+Kaspersky Threat Intelligence Portal — Analysis
+Triage | Login
+HashTools: Compute and Check Hashes with One Click by Binary Fortress Software
+Winitor
+Explorer Suite – NTCore
+Docguard | Detect malwares in seconds!
+Hex Rays - State-of-the-art binary code analysis solutions
+malwares.com
+Hex to ASCII Text String Converter
+HexEd.it - Browser-based Online and Offline Hex Editing
+Ramji Londonwaley {HD} - R. Madhavan - Samita Bangargi - Hindi Full Movie - (With Eng Subtitles) - YouTube
+GitHub - jivoi/awesome-osint: :scream: A curated list of amazingly awesome OSINT
+Peter Selinger: MD5 Collision Demo
+app exploit
+pithus.org
+Pithus
+recon
+denic.de: WebWhois
+DNS History - DNS Records - agoda.com
+DNS History - DNS Records - dnshistory.org
+DNS Lookup - Check DNS Records of Domain
+Online investigation tool - Reverse IP, NS, MX, WHOIS and Search Tools
+DNS health check : find bugs on your domain
+DNS Root Instances - RIPE Atlas — RIPE Network Coordination Centre
+DNSSEC Analyzer
+DNS Spy: Paranoid about your DNS. Monitor &amp; back-up your DNS, get alerts when your DNS changes.
+Network tools for web workers! - Network, domain and DNS tools
+SecurityTrails: Data Security, Threat Hunting, and Attack Surface Management Solutions for Security Teams
+dnstwist | phishing domain scanner
+dnstwister | Report for agoda.com
+DNSViz | A DNS visualization tool
+DomainCrawler | Actionable insights from domain name data
+agoda.com - Domain Dossier - owner and registrar information, whois and DNS records
+Registered Domain Names Search - Find Registered Domain Names
+Domain To IP Converter - Convert a list of domain names into IP Addresses
+DomainTools - The first place to go when you need to know.
+Easy Counter: any domain’s whois, owners details and history
+DomainHelp (formerly easyWhois): Domain Name lookups, whois, DNS tools and simple, handy Domain name debugger
+.edu Whois Look up
+Domain and IP bulk lookup tool
+NS.tools: Check DNS domain or IP, test DNS lookup
+NS.tools: AGODA.COM - Check DNS, MX and whois test domain agoda.com
+Open Data | Rapid7 Open Data
+purplepee.co
+Redirect Detective - Discover where those redirects really go to
+AGoda.com WHOIS, DNS, & Domain Info - DomainTools
+IP Whois Lookup, Domain Name Search, Visual Trace Route - Da whois
+What Is My IP Address? Free IP Lookup
+APNIC
+Website search tool - Onderzoek een website - Aware Online Academy
+Better Whois: The WHOIS domain search that works with all registrars.
+CompleteDNS - Research domain nameserver changes and drops
+Network Tools for 2023: Ping, Traceroute, WHOIS & More
+Find Your DNS Records With Our Easy Online Tool
+This Email Checker Tests The Validity & Reachability Of An Email Address
+HTTP Headers Tool - Use It Now To Check HTTP Status Codes
+IDN To Punycode Conversion - It's Easy With Our Simple Tool
+Free Online Ping Tool - Fix Domain Name & IP Address Problems Now
+What Is NsLookup? Use Our Online Tool To Query DNS Records
+Free Spam Blacklist Checker: Enter Your Domain Name And Hit Go!
+Traceroute Tool: How And What Does It Trace? Try It Now
+Use This URL Encode Tool For Instant Text Encoding
+Free WHOIS Lookup Tool - Track Down Public Registration Info Now
+dnstwister | The anti-phishing domain name search engine and DNS monitoring service
+Nmmapper Subdomain finder,Nmap online,theharvester
+HostHunter a recon tool for discovering hostnames
+Epieos, the ultimate OSINT tool
+rot13.com
+Base64 Decode and Encode | Online Hash Crack
+CryptoHack – A fun, free platform for learning cryptography
+Live Cyber Threat Map | Check Point
+Home - dmarcian
+TryHackMe | Assembly Emulator
+Fiddler | Web Debugging Proxy and Troubleshooting Solutions
+Online - Reverse Shell Generator
+cryptography
+Integer factorization calculator
+CyberChef
+md5 hash decoder and calculator
+phishing
+Real-time URL and Website Sandbox | CheckPhish
+Stop Forum Spam
+Phishing URL Checker: Check a Link for Phishing in Seconds
+www.dailygkgs.com - urlscan.io
+www.dailygkgs.com - urlscan.io
+Phishing Initiative
+www[.]dailygkgs[.]com - phish.report
+What is an Email Header and How to Read Them?
+How to Perform a VPN Leak Test
+PhishTank | Join the fight against phishing
+Email and Spam Data || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence
+MX Lookup Tool - Check your DNS MX Records online - MxToolbox
+Traceroute IP Online, Traceroute Online Tool | IPVoid
+Check a URL Category | URL Database For DNS/IP & Web Filtering
+Web Filter Lookup | FortiGuard
+Complete email header analysis. Analyse, track ip here
+Phishing Link and URL Checker | EasyDMARC
+isitPhishing - Anti phishing tools and information
+OpenPhish - Phishing Intelligence
+dailygkgs.com/2023/05/lnmu-part-3-admit-card-2023-3.html - SiteCheck
+VirusTotal - Home
+Is This Website Safe | Website Security | Norton Safe Web
+Cyber-XRay
+Cyber-XRay
+Automated Malware Analysis - Joe Sandbox Cloud Basic
+Cuckoo Sandbox
+Triage | Dashboard
+Whois Lookup, Domain Availability &amp; IP Search - DomainTools
+Browserling - Live interactive cross-browser testing
+Browserling - Live interactive cross-browser testing
+Free Automated Malware Analysis Service - powered by Falcon Sandbox
+TryHackMe.com WHOIS, DNS, & Domain Info - DomainTools
+DorkGPT - Generate Google Dorks with AI
+MEGA
+Attack-Defense Online Lab
+Home - Insta Analyzer
+New folder
+HITRUST CSF v11.1.0 License Agreement - HITRUST Alliance
+Search For Any FedRAMP Policy or Guidance Resource | FedRAMP.gov
+explore website
+MalShare
+Palo Alto Networks URL filtering - Test A Site
+Symantec Sitereview
+IP Address Tools, Network Tools, DNS Tools | IPVoid
+Check if a Website is Malicious/Scam or Safe/Legit | URLVoid
+Filesec.io
+LOLBAS
+GTFOBins
+GTFOBins
+VirusTotal - Home
+Projects - Canva
+some url
+Red Teaming/Adversary Simulation Toolkit
+Home | Metasploit Documentation Penetration Testing Software, Pen Testing Security
+hacking - Microsoft OneNote Online
+CYberchakravuh - Microsoft OneNote Online
+
+
+
+
+(3) Feed | LinkedIn
+GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.
+Discover, Create, and Publish your research paper | SciSpace by Typeset
+(24) Saved Posts | LinkedIn
+Text Blaze: Snippets and Templates for Chrome
+Wiseone | Your AI-powered reading copilot
+AI-Powered Meeting Recorder for Zoom and Google Meet - tl;dv
+Examples - OpenAI API
+Blackbox AI - Connect & Build AI Workflows w/NeuralFlow
+Chat with any PDF - ChatBeat
+Sentiment Analysis - Tinq.ai
+Flatlogic - The best way to create React, Angular and Vue full-stack web applications
+Get started | My AskAI
+beta.jasper.ai/free
+Vulniper
+Meta GPT - Chat
+ByteCapsule - Poe
+HackerGPT
+BADGPT | badgpt
+Simplified: An Easy to Use All-In-One App For Modern Marketing Teams
+ScamAdviser.com | Check a website for risk | Check if fraudulent | Website trust reviews |Check website is fake or a scam
+(3) Youtube Management Template | Board view
+About | NIST
+
+
+
+
+
+
+
 
 
 
